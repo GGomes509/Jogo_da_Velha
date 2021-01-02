@@ -1,0 +1,94 @@
+@charset "uft-8";
+body{
+    background-color: cornflowerblue;
+    width: 1200px;
+    height: 600px;
+}
+
+.painelcentral{
+   width: 283px;
+   height: 283px;
+   background-color:blueviolet;
+   position:absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   border-radius: 60px;
+}
+.quadrado1{
+    width: 90px;
+    height: 90px;
+    border-right:3px solid black;
+    border-bottom:3px solid black; 
+    float: left;
+}
+.quadrado2{
+    width: 90px;
+    height: 90px;
+    border-left:3px solid black;
+    border-bottom:3px solid black; 
+    border-right: 3px solid black;;
+    float: left;
+}
+.quadrado3{
+    
+    width: 90px;
+    height: 90px;
+    border-left:3px solid black;
+    border-bottom:3px solid black; ;
+    float: left;
+  
+}
+.quadrado4{
+    width: 90px;
+    height: 90px;
+    border-bottom:3px solid black;
+    border-right:3px solid black ; 
+    border-top:3px solid black;
+    float: left;
+  
+}
+.quadrado5{
+    width: 90px;
+    height: 90px;
+    border-left:3px solid black;
+    border-bottom:3px solid black;
+    border-right:3px solid black ; 
+    border-top:3px solid black;
+    float: left;
+  
+}
+.quadrado6{
+    width: 90px;
+    height: 90px;
+    border-top:3px solid black;
+    border-left:3px solid black;
+    border-bottom:3px solid black; 
+    float: left;
+  
+}
+.quadrado7{
+    width: 90px;
+    height: 90px;
+    border-right:3px solid black ; 
+    border-top:3px solid black;
+    float: left;
+  
+}
+.quadrado8{
+    width: 90px;
+    height: 90px;
+    border-left:3px solid black;
+    border-right:3px solid black ; 
+    border-top:3px solid black;
+    float: left;
+  
+}
+.quadrado9{
+    width: 90px;
+    height: 90px;
+    border-left:3px solid black;
+    border-top:3px solid black;
+    float: left;
+  
+}

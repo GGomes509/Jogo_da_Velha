@@ -1,0 +1,5 @@
+ function ox(a){
+     o={
+     
+     }
+ }
